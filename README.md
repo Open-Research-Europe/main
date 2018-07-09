@@ -23,6 +23,8 @@ Thus, our proposal is to address the following key question: what models or prac
 - [Gareth Cole](https://twitter.com/drgarethcole)
 - [Jon Tennant](https://twitter.com/Protohedgehog)
 - [Lisa Matthias](https://twitter.com/l_matthia)
+- Guleda Dogan
+- Zehra Taskin
 
 ## Contact <a name="Contact"></a>
 
