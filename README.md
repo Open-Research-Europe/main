@@ -51,3 +51,5 @@ Thus, our proposal is to address the following key question: what models or prac
 ## Further Reading <a name="Reading"></a>
 
 - [Making research evaluation processes in Europe more transparent](http://blogs.lse.ac.uk/impactofsocialsciences/2018/07/03/making-research-evaluation-processes-in-europe-more-transparent/)
+
+- Conflicting measures and values: How humanities scholars in Australia and Sweden use and react to bibliometric indicators [(Hammarfelt and Haddow, 2018)](https://onlinelibrary.wiley.com/doi/full/10.1002/asi.24043).
