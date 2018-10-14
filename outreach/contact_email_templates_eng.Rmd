@@ -1,0 +1,42 @@
+---
+title: "Contact_email_templates_eng"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+### First contact
+Dear [name],
+
+I'm writing to ask for your help with a research project investigating how academics are evaluated for promotion and tenure across different institutions in Europe. The project is led by [team members + affiliation]. Details of the project can be found at https://github.com/Open-Research-Europe/main.
+
+We are gathering review, promotion, and tenure forms, as well as guidelines some faculty are given when they are up for tenure or salary review. Would you be willing to send me any such documents from your department and/or institution? Please do not send completed forms - only the guidelines or blank forms are necessary for the purposes of this research project.  
+
+Thank you in advance for your time and consideration!
+
+Best regards,
+
+[Your signature]
+
+### Follow-up if contact sent university-level and not department-level guidelines
+
+Hello [name],
+
+Thanks for getting back to us! May I ask if your university has any additional RPT documents distributed on a departmental-level?
+
+Our team has found many university-wide policies and procedures, but have been far less successful at tracking down the department-specific guidelines that are sometimes given to faculty. Typically, these documents will capture discipline-specific norms and expectations that the university-wide policy may not, and it is precisely these differences that our team is interested in studying.
+
+Thank you again for the help!
+
+Regards,
+[Your signature]
+
+### Thank you 
+Dear [Name],
+Thank you so much for your help! Your contribution will help us to examine how faculty are evaluated in review, promotion and tenure (RPT) processes and understand the extent to which concepts of open access, open science, and public engagement are incorporated into these processes.
+
+If you know of anyone else at your university who might be interested in contributing materials, we would greatly appreciate it if you could let them know about our project. 
+
+Kind regards,
+[Your signature]
